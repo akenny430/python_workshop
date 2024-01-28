@@ -4,6 +4,8 @@ marp: true
 math: mathjax
 ---
 
+
+
 ---
 
 # Why Python?
@@ -54,4 +56,4 @@ Combination of:
 
 ---
 
-Lets go!
+Lets go! :smile:
