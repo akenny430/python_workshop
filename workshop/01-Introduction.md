@@ -1,10 +1,16 @@
 ---
 marp: true
 # class: invert
+paginate: true
+# backgroundColor: #fff
 math: mathjax
 ---
 
+![bg left:50%](../python_logo.svg)
 
+# Python Workshop
+
+01: Introduction
 
 ---
 
@@ -39,7 +45,7 @@ Two main "flavors".
 
 # What we will cover
 
-- Python "best practices".
+<!-- - Python "best practices". -->
 - IDEs: VSCode.
 - Code quality: type hinting, linting.
 - Version control: Git.
